@@ -1,1 +1,11 @@
-
+ID: 1234567
+Title: The error 404 occurs when clicking on Shopping bag 
+Severity: Major
+Priority: High
+Environment: Samsung Galaxy S10e, Android 12
+Steps to Reproduce : 1) Go to the product page
+                     2) Add the product to the shopping bag 
+                     3) Click shopping bag icon on the top right
+ Actual Result: Error 404 
+ Expected result: The list of chosen products
+ Attachment: Screenshot
