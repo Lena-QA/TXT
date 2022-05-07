@@ -1,0 +1,5 @@
+
+1) Name:Elena Cherkovskaya
+2) Age:33
+3) Pets:3
+4) Salary:1000
